@@ -6,5 +6,7 @@ public class UlasClass {
 
         System.out.println("hello world");
 
+        System.out.println("dayılar ben tekrar ekleme yaptım");
+
     }
 }
