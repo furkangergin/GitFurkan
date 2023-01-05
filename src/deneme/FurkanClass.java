@@ -1,2 +1,6 @@
-package deneme;public class FurkanClass {
+package deneme;
+
+public class FurkanClass {
+
+
 }
