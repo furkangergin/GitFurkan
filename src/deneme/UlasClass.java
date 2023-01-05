@@ -8,5 +8,7 @@ public class UlasClass {
 
         System.out.println("dayılar ben tekrar ekleme yaptım");
 
+        System.out.println("en son bunu yazdım");
+
     }
 }
