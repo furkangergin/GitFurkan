@@ -10,5 +10,7 @@ public class UlasClass {
 
         System.out.println("en son bunu yazdım");
 
+        System.out.println("pastırmanın kilosu 400 oldu");
+
     }
 }
